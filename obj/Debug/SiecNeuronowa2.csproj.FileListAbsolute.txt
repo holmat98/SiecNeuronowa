@@ -1,0 +1,7 @@
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\bin\Debug\SiecNeuronowa2.exe.config
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\bin\Debug\SiecNeuronowa2.exe
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\bin\Debug\SiecNeuronowa2.pdb
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\obj\Debug\SiecNeuronowa2.csprojAssemblyReference.cache
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\obj\Debug\SiecNeuronowa2.csproj.CoreCompileInputs.cache
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\obj\Debug\SiecNeuronowa2.exe
+C:\Users\matih\Documents\semestr4\ssi\wlasne\SiecNeuronowa2\obj\Debug\SiecNeuronowa2.pdb
